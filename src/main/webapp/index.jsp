@@ -12,6 +12,6 @@
 </head>
 <body>
 	<a href="project/board/detail">상세페이지</a>
-	빡빡디라라ㅗㅗㅗㅗㅗㅗ
+	된다
 </body>
 </html>
