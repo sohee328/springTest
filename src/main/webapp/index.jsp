@@ -12,6 +12,7 @@
 </head>
 <body>
 	<a href="project/board/detail">상세페이지</a>
-	된다
+	된다//
+확인
 </body>
 </html>
